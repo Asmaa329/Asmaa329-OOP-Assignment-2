@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|c:\\simulation\\oop assignment 2\\asmaa329-oop-assignment-2\\inheritance\\src\\librarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|c:\\simulation\\oop assignment 2\\asmaa329-oop-assignment-2\\inheritance\\src\\librarysystem\\studentmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|solutionrelative:studentmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|c:\\simulation\\oop assignment 2\\asmaa329-oop-assignment-2\\inheritance\\src\\librarysystem\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|solutionrelative:staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|c:\\simulation\\oop assignment 2\\asmaa329-oop-assignment-2\\inheritance\\src\\librarysystem\\shelver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|solutionrelative:shelver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|c:\\simulation\\oop assignment 2\\asmaa329-oop-assignment-2\\inheritance\\src\\librarysystem\\premiummember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|solutionrelative:premiummember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|c:\\simulation\\oop assignment 2\\asmaa329-oop-assignment-2\\inheritance\\src\\librarysystem\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|c:\\simulation\\oop assignment 2\\asmaa329-oop-assignment-2\\inheritance\\src\\librarysystem\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|solutionrelative:member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|c:\\simulation\\oop assignment 2\\asmaa329-oop-assignment-2\\inheritance\\src\\librarysystem\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|solutionrelative:magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|c:\\simulation\\oop assignment 2\\asmaa329-oop-assignment-2\\inheritance\\src\\librarysystem\\loanstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|solutionrelative:loanstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|c:\\simulation\\oop assignment 2\\asmaa329-oop-assignment-2\\inheritance\\src\\librarysystem\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|solutionrelative:loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|c:\\simulation\\oop assignment 2\\asmaa329-oop-assignment-2\\inheritance\\src\\librarysystem\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|solutionrelative:libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|c:\\simulation\\oop assignment 2\\asmaa329-oop-assignment-2\\inheritance\\src\\librarysystem\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|solutionrelative:librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|c:\\simulation\\oop assignment 2\\asmaa329-oop-assignment-2\\inheritance\\src\\librarysystem\\headlibrarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|solutionrelative:headlibrarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|c:\\simulation\\oop assignment 2\\asmaa329-oop-assignment-2\\inheritance\\src\\librarysystem\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|solutionrelative:dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|c:\\simulation\\oop assignment 2\\asmaa329-oop-assignment-2\\inheritance\\src\\librarysystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144A5B51-5A4D-4B9B-B54C-6D63478D1A8F}|LibrarySystem.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\Member.cs",
+              "RelativeDocumentMoniker": "Member.cs",
+              "ToolTip": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\Member.cs",
+              "RelativeToolTip": "Member.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T20:57:36.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T20:55:17.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PremiumMember.cs",
+              "DocumentMoniker": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\PremiumMember.cs",
+              "RelativeDocumentMoniker": "PremiumMember.cs",
+              "ToolTip": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\PremiumMember.cs",
+              "RelativeToolTip": "PremiumMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T21:00:03.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T20:50:19.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shelver.cs",
+              "DocumentMoniker": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\Shelver.cs",
+              "RelativeDocumentMoniker": "Shelver.cs",
+              "ToolTip": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\Shelver.cs",
+              "RelativeToolTip": "Shelver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T21:02:24.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\Staff.cs",
+              "RelativeDocumentMoniker": "Staff.cs",
+              "ToolTip": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\Staff.cs",
+              "RelativeToolTip": "Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T21:00:42.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentMember.cs",
+              "DocumentMoniker": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\StudentMember.cs",
+              "RelativeDocumentMoniker": "StudentMember.cs",
+              "ToolTip": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\StudentMember.cs",
+              "RelativeToolTip": "StudentMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T20:59:21.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\Magazine.cs",
+              "RelativeDocumentMoniker": "Magazine.cs",
+              "ToolTip": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\Magazine.cs",
+              "RelativeToolTip": "Magazine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T21:06:48.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoanStatus.cs",
+              "DocumentMoniker": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\LoanStatus.cs",
+              "RelativeDocumentMoniker": "LoanStatus.cs",
+              "ToolTip": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\LoanStatus.cs",
+              "RelativeToolTip": "LoanStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T20:56:00.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\Loan.cs",
+              "RelativeDocumentMoniker": "Loan.cs",
+              "ToolTip": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\Loan.cs",
+              "RelativeToolTip": "Loan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T21:07:31.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibraryItem.cs",
+              "DocumentMoniker": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\LibraryItem.cs",
+              "RelativeDocumentMoniker": "LibraryItem.cs",
+              "ToolTip": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\LibraryItem.cs",
+              "RelativeToolTip": "LibraryItem.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T21:03:58.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\Librarian.cs",
+              "RelativeDocumentMoniker": "Librarian.cs",
+              "ToolTip": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\Librarian.cs",
+              "RelativeToolTip": "Librarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T21:01:36.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HeadLibrarian.cs",
+              "DocumentMoniker": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\HeadLibrarian.cs",
+              "RelativeDocumentMoniker": "HeadLibrarian.cs",
+              "ToolTip": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\HeadLibrarian.cs",
+              "RelativeToolTip": "HeadLibrarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T21:03:09.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DVD.cs",
+              "DocumentMoniker": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\DVD.cs",
+              "RelativeDocumentMoniker": "DVD.cs",
+              "ToolTip": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\DVD.cs",
+              "RelativeToolTip": "DVD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T21:06:09.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\simulation\\OOP Assignment 2\\Asmaa329-OOP-Assignment-2\\Inheritance\\src\\LibrarySystem\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T21:04:48.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
