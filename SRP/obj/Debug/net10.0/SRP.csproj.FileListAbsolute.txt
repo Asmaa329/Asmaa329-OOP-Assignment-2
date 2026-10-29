@@ -1,0 +1,16 @@
+C:\simulation\OOP Assignment 2\Asmaa329-OOP-Assignment-2\SRP\obj\Debug\net10.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\simulation\OOP Assignment 2\Asmaa329-OOP-Assignment-2\SRP\obj\Debug\net10.0\SRP.AssemblyInfoInputs.cache
+C:\simulation\OOP Assignment 2\Asmaa329-OOP-Assignment-2\SRP\obj\Debug\net10.0\SRP.AssemblyInfo.cs
+C:\simulation\OOP Assignment 2\Asmaa329-OOP-Assignment-2\SRP\obj\Debug\net10.0\SRP.csproj.CoreCompileInputs.cache
+C:\simulation\OOP Assignment 2\Asmaa329-OOP-Assignment-2\SRP\obj\Debug\net10.0\SRP.sourcelink.json
+C:\simulation\OOP Assignment 2\Asmaa329-OOP-Assignment-2\SRP\bin\Debug\net10.0\SRP.exe
+C:\simulation\OOP Assignment 2\Asmaa329-OOP-Assignment-2\SRP\bin\Debug\net10.0\SRP.deps.json
+C:\simulation\OOP Assignment 2\Asmaa329-OOP-Assignment-2\SRP\bin\Debug\net10.0\SRP.runtimeconfig.json
+C:\simulation\OOP Assignment 2\Asmaa329-OOP-Assignment-2\SRP\bin\Debug\net10.0\SRP.dll
+C:\simulation\OOP Assignment 2\Asmaa329-OOP-Assignment-2\SRP\bin\Debug\net10.0\SRP.pdb
+C:\simulation\OOP Assignment 2\Asmaa329-OOP-Assignment-2\SRP\obj\Debug\net10.0\SRP.dll
+C:\simulation\OOP Assignment 2\Asmaa329-OOP-Assignment-2\SRP\obj\Debug\net10.0\refint\SRP.dll
+C:\simulation\OOP Assignment 2\Asmaa329-OOP-Assignment-2\SRP\obj\Debug\net10.0\SRP.pdb
+C:\simulation\OOP Assignment 2\Asmaa329-OOP-Assignment-2\SRP\obj\Debug\net10.0\SRP.genruntimeconfig.cache
+C:\simulation\OOP Assignment 2\Asmaa329-OOP-Assignment-2\SRP\obj\Debug\net10.0\ref\SRP.dll
+C:\simulation\OOP Assignment 2\Asmaa329-OOP-Assignment-2\SRP\obj\Debug\net10.0\SRP.csproj.Up2Date
